@@ -1,16 +1,14 @@
-# flutter_doodle
+# Flutter Doodle App
 
-A new Flutter Doodle App project.
+A simple Doodle (drawing) app built with Flutter and Dart. Users can draw on the screen, change stroke color, and adjust stroke thickness.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Draw freehand on the canvas using touch input
+- Choose from multiple colors
+- Adjust stroke thickness with a slider
+- Clear the canvas with one tap
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20250417_194433](https://github.com/user-attachments/assets/81ebdd92-3835-422c-85ec-07fcdc2ad48c)
